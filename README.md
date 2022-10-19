@@ -1,2 +1,2 @@
-# my-first-repo-meta
-practice account for learning Git
+# my-first-repo-meta my first repo			
+Practice account for learning 
